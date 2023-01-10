@@ -31,7 +31,7 @@ Benefits: a shorter coding process.
 ## Results 
 The Total Predicted Loss in 2016 is $ 117,308,934.20 
 
-Python Output: Predicted_Losses.csv
+Python Output: Predicted_Losses.csv </b>
 ![image](https://user-images.githubusercontent.com/107721712/211469513-71f80636-7877-4705-ab94-c00aaf44b74c.png)</b>
 
 ![image](https://user-images.githubusercontent.com/107721712/211469640-d258a1c0-ad26-4eea-8166-5a4d28a34d3a.png)</b>
