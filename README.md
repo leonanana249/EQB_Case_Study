@@ -10,7 +10,7 @@ However, the two tables don't have a single unique identifer as the reporting da
 ## Tools 
 Python and SQL are used to compare the result. 
 
-#ETL Process 
+## ETL Process 
 Python: 
 1. Load Data into tables 
 2. Create a unique indentifer "Index"
@@ -29,7 +29,9 @@ SQL:
 Benefits: a shorter coding process. 
 
 ## Results 
-Python: Predicted_Losses.csv 
-![image](https://user-images.githubusercontent.com/107721712/211469513-71f80636-7877-4705-ab94-c00aaf44b74c.png)
-SQL: 
-![image](https://user-images.githubusercontent.com/107721712/211469640-d258a1c0-ad26-4eea-8166-5a4d28a34d3a.png)
+The Total Predicted Loss in 2016 is $ 117,308,934.20 
+
+Python Output: Predicted_Losses.csv
+![image](https://user-images.githubusercontent.com/107721712/211469513-71f80636-7877-4705-ab94-c00aaf44b74c.png)</b>
+
+![image](https://user-images.githubusercontent.com/107721712/211469640-d258a1c0-ad26-4eea-8166-5a4d28a34d3a.png)</b>
