@@ -1,0 +1,349 @@
+Reporting_Date,Portfolio,Lender_Type,Insurance_Status,Dimension,Category,Total_Loan_Value_Originated
+2022-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,43478000
+2022-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,185552000
+2022-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2022-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2022-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2022-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,2096321000
+2022-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,3995006000
+2022-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2022-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2022-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,1782484000
+2022-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,877881000
+2022-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2021-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1131557000
+2021-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2021-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2021-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1459377000
+2021-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,277618000
+2021-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2021-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2021-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2021-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,6114142000
+2021-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2482813000
+2021-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2021-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,64053000
+2021-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2021-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,346804000
+2021-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1545467000
+2021-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2021-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1425599000
+2021-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,3110882000
+2021-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2021-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2021-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2021-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,66255000
+2021-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2021-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,7534429000
+2021-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,
+2021-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2021-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2021-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,
+2021-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2021-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2021-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2021-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2021-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2021-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,
+2021-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2021-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2021-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,969851000
+2021-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2021-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2021-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2021-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2021-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,38845000
+2021-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2021-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2191375000
+2021-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,191305000
+2021-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1870282000
+2021-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2021-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,5660948000
+2020-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2020-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2020-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,8032341000
+2020-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2020-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2020-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2020-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2020-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2020-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,3096591000
+2020-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2020-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1278233000
+2020-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,418855000
+2020-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2020-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2020-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2020-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2020-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2020-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2020-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,
+2020-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,
+2020-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2020-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2020-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2020-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,
+2020-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2020-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2020-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2020-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2020-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2020-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,
+2020-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,
+2020-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2020-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2020-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,
+2020-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2020-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2020-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2020-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2020-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,244690000
+2020-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2020-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2020-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,867482000
+2020-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,1833772000
+2020-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,47150000
+2020-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,933748000
+2020-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2020-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,3680854000
+2020-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2019-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,74063000
+2019-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,316728000
+2019-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2019-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1157197000
+2019-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2019-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2174016000
+2019-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2019-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2019-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2019-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2019-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,4721802000
+2019-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,962444000
+2019-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2019-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2019-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2019-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,424255000
+2019-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2019-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,898089000
+2019-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2920069000
+2019-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,61394000
+2019-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1529865000
+2019-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,6512918000
+2019-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2019-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2019-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,5618613000
+2019-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2664690000
+2019-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1227346000
+2019-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,421027000
+2019-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,54849000
+2019-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2019-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2019-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2019-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1430442000
+2019-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2019-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2019-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2019-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,622301000
+2019-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,2191982000
+2019-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2019-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,5109390000
+2019-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2019-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,
+2019-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,940351000
+2019-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,14049452000
+2019-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2019-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,3035976000
+2019-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,
+2019-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,
+2018-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,714380000
+2018-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,6261407000
+2018-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,305961000
+2018-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,3677113000
+2018-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,4491036000
+2018-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1078413000
+2018-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2524344000
+2018-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1260037000
+2018-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,6784115000
+2018-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1171843000
+2018-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,36948000
+2018-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,20975002000
+2018-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2018-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2018-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,742324000
+2018-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,
+2018-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,4214304000
+2018-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1305780000
+2018-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,
+2018-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,
+2018-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,7511038000
+2018-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,23727592000
+2018-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2018-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,4182983000
+2018-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,5768585000
+2018-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,7370798000
+2018-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,21944297000
+2018-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,4074943000
+2018-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2790215000
+2018-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,689947000
+2018-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,374996000
+2018-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1295147000
+2018-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,62175000
+2018-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,5840695000
+2018-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1480426000
+2018-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1325875000
+2018-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1070251000
+2018-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,471288000
+2018-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,242128000
+2018-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1116430000
+2018-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,2906773000
+2018-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,5727554000
+2018-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,3223444000
+2018-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,39314000
+2018-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,871440000
+2018-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,5219208000
+2018-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,15573804000
+2018-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,1610870000
+2017-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1276229000
+2017-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1214476000
+2017-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,343592000
+2017-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,4443199000
+2017-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2228395000
+2017-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,53405000
+2017-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,21368653000
+2017-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,4184885000
+2017-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,666667000
+2017-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1576681000
+2017-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,5519241000
+2017-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,7927064000
+2017-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1268722000
+2017-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,433595000
+2017-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,974341000
+2017-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,58037000
+2017-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1585235000
+2017-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,2021220000
+2017-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,5806676000
+2017-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,10420801000
+2017-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,5818775000
+2017-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2966293000
+2017-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,6647840000
+2017-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,28535061000
+2017-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,46347000
+2017-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1778914000
+2017-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1105732000
+2017-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,6589833000
+2017-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,6241667000
+2017-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1620875000
+2017-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,447874000
+2017-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,26914914000
+2017-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,9896068000
+2017-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,867295000
+2017-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,3106975000
+2017-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,5402056000
+2017-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,36083000
+2017-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,4474579000
+2017-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1065663000
+2017-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,979727000
+2017-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,16808437000
+2017-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,3721781000
+2017-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,3641426000
+2017-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,697784000
+2017-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,1787653000
+2017-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,1350109000
+2017-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,6717156000
+2017-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,292804000
+2016-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2016-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2016-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1603612000
+2016-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,480925000
+2016-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2865367000
+2016-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,76026000
+2016-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2016-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2016-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2016-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,973332000
+2016-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,5608315000
+2016-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2016-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2016-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,102247000
+2016-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,611836000
+2016-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,7797854000
+2016-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2016-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,2255817000
+2016-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,4031954000
+2016-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2016-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2016-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2016-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2016-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,817188000
+2016-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,2026513000
+2016-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2016-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2016-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,798040000
+2016-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,88904000
+2016-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2016-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2016-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2016-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2016-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,556413000
+2016-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,3693445000
+2016-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,6835499000
+2016-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2016-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2268591000
+2016-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2016-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2016-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,3522916000
+2016-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1124450000
+2016-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2016-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,662056000
+2016-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2016-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,50111000
+2016-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2016-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,336384000
+2015-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2015-12-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,2954673000
+2015-12-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2015-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2015-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2015-12-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,9235790000
+2015-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2015-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2015-12-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2015-12-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,859028000
+2015-12-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,5392648000
+2015-12-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2015-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2015-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2015-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2015-09-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,151683000
+2015-09-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,9422421000
+2015-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2015-09-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,1055318000
+2015-09-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,3363918000
+2015-09-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1462974000
+2015-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2015-09-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,5865258000
+2015-09-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2015-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2015-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2015-06-30,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,
+2015-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2015-06-30,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,
+2015-06-30,mtg,Chartered Bank,Insured,Credit Score Range,No Score,
+2015-06-30,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,
+2015-06-30,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,
+2015-06-30,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,
+2015-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2015-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2015-06-30,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2015-03-31,mtg,Chartered Bank,Insured,Credit Score Range,650 < 699,1186272000
+2015-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,600 < 649,
+2015-03-31,mtg,Chartered Bank,Insured,Credit Score Range,600 < 649,407201000
+2015-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,No Score,
+2015-03-31,mtg,Chartered Bank,Insured,Credit Score Range,No Score,1022735000
+2015-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,700 < 749,
+2015-03-31,mtg,Chartered Bank,Insured,Credit Score Range,700 < 749,2116415000
+2015-03-31,mtg,Chartered Bank,Insured,Credit Score Range,750 or greater,2902106000
+2015-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,750 or greater,
+2015-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,0 < 599,
+2015-03-31,mtg,Chartered Bank,Uninsured,Credit Score Range,650 < 699,
+2015-03-31,mtg,Chartered Bank,Insured,Credit Score Range,0 < 599,64955000
